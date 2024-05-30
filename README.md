@@ -1,30 +1,23 @@
-Hola! Mi Nombre es Mario Martinez
+Hola! Mi nombre es Mario Martínez, también conocido como mario19martinez en GitHub.
 
-Tambien conocido como mario19martinez en gitHub
+¿Quién soy?
 
-Quien Soy?
+Soy un programador Fullstack, orientado tanto al desarrollo frontend como al backend. Desde hace un tiempo empecé en el mundo de la programación; me pareció muy interesante y, desde que comencé a estudiar, mi gusto por programar ha ido aumentando.
 
-Soy un Programador Fullstack, estoy orientado tanto al desarrollo Frond end, como el Back end.
+¿A dónde me dirijo?
 
-Desde hace un tiempo empece en el mundo de la programacion, me parecio muy interesante y desde que empece a estudiar mi gusto por programar fue aumentando.
+Mi objetivo es poder impactar el mundo gracias al código. Programar se ha vuelto algo esencial en mi vida, no solo por la alta demanda que existe en el mercado, sino por todo lo que puedo aportar a los proyectos y retos que se me presenten.
 
-¡A donde me dirijo?
+¿Qué tecnologías uso?
 
-Mi objetivo es poder impactar el mundo gracias al codigo.
+El Bootcamp de Henry me ha permitido adquirir conocimientos y experiencia fundamentales para despegar. Las principales tecnologías que manejo son:
 
-el programar se ha vuelto algo esencial en mi vida, no solo por la alta demanda que existe en el mercado, si no por todo lo que puedo aportar a los proyectos y retos que se me presenten.
+Javascript
+React.js
+Node.js
+Express.js
+PostgreSQL
+Git
+También tengo conocimientos en HTML y CSS.
 
-¿Que tecnologias uso?
-
-El Bootcamp de Henry me ha permitido adquirir conocimiento y experiencia fundamental para despegar. Por lo que las principales tecnologias que manejo son:
-* Javascript
-* React.js
-* Node.js
-* Express.js
-* PostgreSQL
-* Git
-
-Tambien incluyendo HTML y CSS
-
-No dudes en contratarme.
-porque sin junior no hay senior.
+No dudes en contratarme, porque sin juniors no hay seniors.
